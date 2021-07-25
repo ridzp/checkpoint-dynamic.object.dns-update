@@ -1,5 +1,6 @@
 import json
 import socket
+
 with open("C:/Python27/dyn_obj.json") as file:
     data = json.load(file)
     #print(data["client"]["name"])
