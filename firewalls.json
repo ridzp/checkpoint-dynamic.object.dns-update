@@ -1,0 +1,15 @@
+{
+	"firewalls": [ 
+		{
+			"fw_hostname": "fw1",
+			"fw_ip_address": "192.168.10.11",
+			"fw_password": "Ridz@12345"
+
+		},
+		{
+			"fw_hostname": "fw2",
+			"fw_ip_address": "192.168.10.12",
+			"fw_password": "Ridz@12345"
+		}
+	]
+}
